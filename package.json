@@ -1,0 +1,118 @@
+{
+    "author": "Parsley_fz8",
+    "dependencies": {
+        "pebble-clay": "^1.0.4"
+    },
+    "keywords": [],
+    "name": "khutss",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "KHUTSS",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "KEY_STATION",
+            "KEY_URL_INDEX",
+            "KEY_URL_0",
+            "KEY_URL_1",
+            "KEY_URL_2",
+            "KEY_HOLIDAY_CONFIG",
+            "KEY_S0_TIME",
+            "KEY_S0_LINE",
+            "KEY_S0_DEST",
+            "KEY_S0_N1",
+            "KEY_S0_N2",
+            "KEY_S1_TIME",
+            "KEY_S1_LINE",
+            "KEY_S1_DEST",
+            "KEY_S1_N1",
+            "KEY_S1_N2",
+            "KEY_S2_TIME",
+            "KEY_S2_LINE",
+            "KEY_S2_DEST",
+            "KEY_S2_N1",
+            "KEY_S2_N2",
+            "KEY_TIME_OFFSET",
+            "KEY_MAX_STATIONS"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/IMG_RAPID",
+                    "name": "IMG_RAPID",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE_ICON_0",
+                    "menuIcon": true,
+                    "name": "IMAGE_ICON_0",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMG_KEIHIN",
+                    "name": "IMG_KEIHIN",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMG_UTLINE",
+                    "name": "IMG_UTLINE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMG_SSLINE",
+                    "name": "IMG_SSLINE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMG_15CARS",
+                    "name": "IMG_15CARS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMG_10CARS",
+                    "name": "IMG_10CARS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMG_RAPID3",
+                    "name": "IMG_RAPID3",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMG_SAIKYO",
+                    "name": "IMG_SAIKYO",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMG_RAPID2",
+                    "name": "IMG_RAPID2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "e7329ee0-e365-4118-ac15-97482644da83",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
